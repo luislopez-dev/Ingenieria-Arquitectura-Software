@@ -1,4 +1,4 @@
-# Algorimos
+# Algoritmos
 
 ## Algoritmos de ordenamiento
 
