@@ -1,6 +1,6 @@
-## Algorimos
+# Algorimos
 
-### Algoritmos de ordenamiento
+## Algoritmos de ordenamiento
 
 1. Ordenamiento Burbuja
 2. Ordenamiento Rápido (QuickSort)
