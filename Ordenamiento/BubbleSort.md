@@ -17,32 +17,33 @@ Consiste en comparar cada elemento, uno por uno, con los elementos adyacentes (o
 
 ```js
 function sort(arr) {
+  // Creamos una copia del array original para evitar modificarlo directamente
+  const sortedArray = [...arr];
 
-  const resultArray = [...arr];
+  // Bucle externo que recorre todo el array (elemento por elemento)
+  for (let i = 0; i < sortedArray.length; i++) {
+    // Guardamos el valor del elemento actual en la posición "i"
+    let currentElement = sortedArray[i];
 
-  for (let outer = 0; outer < resultArray.length; outer++) {
+    // Bucle interno que compara el elemento actual con los elementos restantes
+    for (let j = i + 1; j < sortedArray.length; j++) {
+      // Guardamos el valor del elemento en la posición "j"
+      let nextElement = sortedArray[j];
 
-    let outerEl = resultArray[outer];
+      // Comparamos si el elemento en la posición "i" es mayor que el elemento en la posición "j"
+      if (currentElement > nextElement) {
+        // Si la condición es verdadera, intercambiamos los elementos de posición para que el menor quede primero
+        sortedArray[i] = nextElement;
+        sortedArray[j] = currentElement;
 
-    for (let inner = outer + 1; inner < resultArray.length; inner++) {
-
-      let innerEl = resultArray[inner];
-
-      if (outerEl > innerEl) {
-
-        resultArray[outer] = innerEl;
-        resultArray[inner] = outerEl;
-
-        outerEl = resultArray[outer];
-        innerEl = resultArray[inner];
-
+        // Actualizamos los valores de "currentElement" y "nextElement" después del intercambio
+        currentElement = sortedArray[i];
+        nextElement = sortedArray[j];
       }
     }
   }
-
-  return resultArray;
+  // Devolvemos el array ordenado
+  return sortedArray;
 }
-
-const sortedArray = sort([5, 10, -3, -10, 1, 100, 99]);
 ```
 
