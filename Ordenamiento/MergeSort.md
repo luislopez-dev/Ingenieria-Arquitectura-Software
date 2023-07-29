@@ -9,9 +9,6 @@ Consiste en dividir los elementos de una estructura de datos recursivamente hast
 | Los elementos están ordenados de forma random | Los elementos están ordenados de forma random | Los elementos están ordenados de forma random
 | <strong>O (n * log n)</strong> | <strong>O (n * log n)</strong>  | <strong>O (n * log n)</strong> |
 
-<br>
-
-
 ## Algorítmo:
 
 ```js
