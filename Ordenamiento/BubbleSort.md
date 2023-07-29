@@ -1,4 +1,4 @@
-# Ordenamiento por burbuja (BubbleSort)
+# Ordenamiento burbuja (BubbleSort)
 
 Consiste en comparar cada elemento, uno por uno, con los elementos adyacentes (o subyacente en caso de que el ordenamiento sea descendente), hasta que se encuentre uno que cumpla con la regla de ordenamiento, se intercambien las posiciones de los dos elementos y la comparación continúe los próximos elementos adyacentes.  
 <br>
