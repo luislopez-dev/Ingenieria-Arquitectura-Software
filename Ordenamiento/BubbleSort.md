@@ -1,6 +1,7 @@
 # Ordenamiento burbuja (BubbleSort)
 
-Consiste en comparar cada elemento, uno por uno, con los elementos adyacentes (o subyacente en caso de que el ordenamiento sea descendente), hasta que se encuentre uno que cumpla con la regla de ordenamiento, se intercambien las posiciones de los dos elementos y la comparación continúe los próximos elementos adyacentes.  
+Consiste en comparar cada elemento de una estructura de datos con sus elementos adyacentes (o subyacentes en caso de que el ordenamiento sea descendente), uno por uno hasta que se compare con uno que cumpla con la regla de ordenamiento, cuando se encuentre este elemento, se intercambiarán las posiciones de los dos elementos en comparación, y luego la comparación continuará con el resto de elementos pendientes de ser comparados usando el nuevo elemento posicionado.
+
 <br>
 ## Complejidad algorítmica temporal: <br><br>
 
