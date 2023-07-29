@@ -4,7 +4,7 @@ Consiste en dividir los elementos de una estructura de datos recursivamente hast
 
 <br> 
 
-##  Complejidad algorítmica temporal: <br><br>
+##  Complejidad algorítmica temporal: <br>
 
 | Mejor Caso | Caso promedio | Peor Caso |
 | --- | --- | --- |
