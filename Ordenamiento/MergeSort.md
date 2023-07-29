@@ -8,8 +8,8 @@ Consiste en dividir los elementos de una estructura de datos recursivamente hast
 
 | Mejor Caso | Caso promedio | Peor Caso |
 | --- | --- | --- |
-| Los elementos están ordenados de forma random (no en el orden correcto) | Los elementos están ordenados de forma random (no en el orden correcto) | Los elementos ya están ordenados (el orden no importa) |
-| <strong>O (n * log n)</strong> | <strong>O (n * log n)</strong>  | <strong>O (n**2)</strong> |
+| Los elementos están ordenados de forma random | Los elementos están ordenados de forma random | Los elementos están ordenados de forma random
+| <strong>O (n * log n)</strong> | <strong>O (n * log n)</strong>  | <strong>O (n * log n)</strong> |
 
 <br>
 
