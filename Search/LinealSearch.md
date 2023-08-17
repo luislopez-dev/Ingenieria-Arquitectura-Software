@@ -1,0 +1,1 @@
+## Lineal search algorithm
