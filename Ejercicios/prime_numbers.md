@@ -4,6 +4,25 @@ Identificar los primeros 5 números PRIMOS y efectuar su sumatoria, dentro de un
 
 ### Código
 
+```python    
+prime_numbers = []
+counter = 1
+total  = 0
+    
+while len(prime_numbers) < 5:
+
+    counter += 1 
+        
+    if is_prime(counter):       
+        prime_numbers.append(counter)
+        
+for prime_n in prime_numbers:
+    print(prime_n)
+    total += prime_n
+    
+print("Total: ", total)
+```
+
 ```python
 def is_prime(n)
 
@@ -24,26 +43,6 @@ def is_prime(n)
     
     return True
 ```
-
-```python    
-prime_numbers = []
-counter = 1
-total  = 0
-    
-while len(prime_numbers) < 5:
-
-    counter += 1 
-        
-    if is_prime(counter):       
-        prime_numbers.append(counter)
-        
-for prime_n in prime_numbers:
-    print(prime_n)
-    total += prime_n
-    
-print("Total: ", total)
-```
-
 ### Diagramación
 
 ![SUMAR_NUMEROS_PRIMOS](https://github.com/luislopez-dev/Algoritmos-Ingenieria/assets/48783255/c8b6869d-ae8d-4c43-bfb6-df69e9b93d2d)
