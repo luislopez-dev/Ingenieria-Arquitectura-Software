@@ -1,5 +1,8 @@
 ### Código
 
+```python
+
+```
 
 
 ### Diagramación
