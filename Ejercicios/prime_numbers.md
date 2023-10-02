@@ -48,5 +48,6 @@ def sum_prime_numbers():
 
 ### Diagrana de flujo
 
-![N-primos-diagrama](https://github.com/luislopez-dev/Algoritmos-Ingenieria/assets/48783255/c1959fdb-a879-44a0-b832-cc653ac64f19)
+![numeros_primos_diagrama](https://github.com/luislopez-dev/Algoritmos-Ingenieria/assets/48783255/46fc082e-e303-48b9-a706-6e7364e10565)
+
 
