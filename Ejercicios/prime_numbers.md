@@ -55,5 +55,7 @@ Ejecutar función <code>sum_prime_numbers()</code>
 
 ![ES_PRIMO_DIAGRAMA](https://github.com/luislopez-dev/Algoritmos-Ingenieria/assets/48783255/ec2a849c-3f37-4ab4-938b-08786706069f)
 
+## Documentación completa
 
+https://docs.google.com/document/d/1Gnx1e0zlPpXzHzx0tFASlg3u7Zbm_RIkYMSKWKBCkvg/edit?usp=sharing
 
