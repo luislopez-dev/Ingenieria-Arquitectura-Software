@@ -62,5 +62,5 @@ votaciones_estudiantiles()
 ![VOTACIONES(2)](https://github.com/luislopez-dev/Algoritmos-Ingenieria/assets/48783255/87686142-15d3-4464-9a98-e6f1fafdc016)
 
 
-## Documentación completa: 
+## Documentación completa
 https://docs.google.com/document/d/1Yobthu7O4TK3D4R4ET7ntcIvw2IPuHgLtUnSMiUGu8o/edit?usp=sharing
