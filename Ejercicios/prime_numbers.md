@@ -50,4 +50,7 @@ def sum_prime_numbers():
 
 ![numeros_primos_diagrama](https://github.com/luislopez-dev/Algoritmos-Ingenieria/assets/48783255/46fc082e-e303-48b9-a706-6e7364e10565)
 
+![ES_PRIMO_DIAGRAMA](https://github.com/luislopez-dev/Algoritmos-Ingenieria/assets/48783255/ec2a849c-3f37-4ab4-938b-08786706069f)
+
+
 
