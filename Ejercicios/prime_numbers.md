@@ -1,3 +1,7 @@
+### Instrucciones:
+
+Identificar los primeros 5 números PRIMOS y efectuar su sumatoria, dentro de una serie numérica entera iniciando con el número 1 e incrementando de 1 en 1. 
+
 ### Código
 
 ```python
