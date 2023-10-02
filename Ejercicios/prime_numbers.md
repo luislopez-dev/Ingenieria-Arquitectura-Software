@@ -49,7 +49,7 @@ def sum_prime_numbers():
 
 Ejecutar función <code>sum_prime_numbers()</code>
 
-### Diagrana de flujo
+### Diagrama de flujo
 ![SUMAR_NUMEROS_PRIMOS](https://github.com/luislopez-dev/Algoritmos-Ingenieria/assets/48783255/c8b6869d-ae8d-4c43-bfb6-df69e9b93d2d)
 
 ![ES_PRIMO_DIAGRAMA](https://github.com/luislopez-dev/Algoritmos-Ingenieria/assets/48783255/ec2a849c-3f37-4ab4-938b-08786706069f)
