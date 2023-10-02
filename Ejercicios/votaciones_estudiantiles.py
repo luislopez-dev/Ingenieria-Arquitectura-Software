@@ -1,7 +1,3 @@
-### Código
-
-```python
-
 def votaciones_estudiantiles() :
  
     ganador = ""
@@ -55,8 +51,3 @@ def votaciones_estudiantiles() :
     print("Ganador: ", ganador)
 
 votaciones_estudiantiles()
-
-```
-
-
-### Diagramación
