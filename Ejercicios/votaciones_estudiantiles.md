@@ -58,7 +58,6 @@ votaciones_estudiantiles()
 
 ```
 
-
 ### Diagramación
-![VOTACIONES(1)](https://github.com/luislopez-dev/Algoritmos-Ingenieria/assets/48783255/5129ec19-004d-484c-beec-26e708a7f941)
+![VOTACIONES(2)](https://github.com/luislopez-dev/Algoritmos-Ingenieria/assets/48783255/87686142-15d3-4464-9a98-e6f1fafdc016)
 
