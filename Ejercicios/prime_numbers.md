@@ -1,3 +1,5 @@
+### Código
+
 ```python
 def is_prime(n):
 
@@ -39,3 +41,8 @@ def sum_prime_numbers():
     
     print("Total: ", total)
 ```
+
+### Diagrana de flujo
+
+![N-primos-diagrama](https://github.com/luislopez-dev/Algoritmos-Ingenieria/assets/48783255/c1959fdb-a879-44a0-b832-cc653ac64f19)
+
