@@ -45,7 +45,7 @@ def is_prime(n)
 ```
 ### Diagramación
 
-![SUMAR_NUMEROS_PRIMOS](https://github.com/luislopez-dev/Algoritmos-Ingenieria/assets/48783255/c8b6869d-ae8d-4c43-bfb6-df69e9b93d2d)
+![sumar_numeros_primos(2)](https://github.com/luislopez-dev/Algoritmos-Ingenieria/assets/48783255/8e3ccc12-7b06-461f-a66f-253cdd3a0b6f)
 
 ![es_primo-last](https://github.com/luislopez-dev/Algoritmos-Ingenieria/assets/48783255/bd3d2b89-7e7c-487b-b7cf-fb7b77075bed)
 
