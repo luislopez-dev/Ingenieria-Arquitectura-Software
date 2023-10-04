@@ -35,15 +35,14 @@ while len(prime_numbers) < 5:
 for prime_n in prime_numbers:
     print(prime_n)
     total += prime_n
-    
+
 print("Total: ", total)
 ```
 ### Diagramación
 
 ![sumar_numeros_primos(2)](https://github.com/luislopez-dev/Algoritmos-Ingenieria/assets/48783255/8e3ccc12-7b06-461f-a66f-253cdd3a0b6f)
 
-![es_primo-last](https://github.com/luislopez-dev/Algoritmos-Ingenieria/assets/48783255/bd3d2b89-7e7c-487b-b7cf-fb7b77075bed)
-
+![screen15](https://github.com/luislopez-dev/Algoritmos-Ingenieria/assets/48783255/3fda7d57-534b-4f6f-aa77-924abbd1b008)
 
 ## Documentación completa
 
