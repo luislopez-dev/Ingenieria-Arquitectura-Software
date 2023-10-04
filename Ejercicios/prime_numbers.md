@@ -4,7 +4,9 @@ Identificar los primeros 5 números PRIMOS y efectuar su sumatoria, dentro de un
 
 ### Código
 
-```python    
+```python
+# Función para determinar si un número es primo o no
+
 def is_prime(n):
 
     if n < 2:
@@ -20,6 +22,8 @@ def is_prime(n):
             return False
     
     return True
+
+# Algorítmo principal
     
 prime_numbers = []
 counter = 1
