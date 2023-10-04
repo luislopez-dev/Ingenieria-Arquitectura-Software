@@ -14,9 +14,6 @@ def is_prime(n):
         return True
   
     for i in range(2, n - 1) :
-
-        if n == 3:
-            n += 1
                 
         if n % i == 0:  
 
