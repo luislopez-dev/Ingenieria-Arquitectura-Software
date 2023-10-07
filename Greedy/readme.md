@@ -1,1 +1,1 @@
-(Algoritmos de Greedy)[https://github.com/luislopez-dev/Greedy-Algoritmos]
+https://github.com/luislopez-dev/Greedy-Algoritmos
