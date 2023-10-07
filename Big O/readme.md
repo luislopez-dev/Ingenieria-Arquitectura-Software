@@ -1,1 +1,1 @@
-[Big O](https://github.com/luislopez-dev/BigO)
+https://github.com/luislopez-dev/BigO
