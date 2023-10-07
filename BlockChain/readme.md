@@ -1,1 +1,1 @@
-(BlockChain)[https://github.com/luislopez-dev/BlockChain]
+https://github.com/luislopez-dev/BlockChain
