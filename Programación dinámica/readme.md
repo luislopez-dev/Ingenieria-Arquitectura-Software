@@ -1,1 +1,1 @@
-[Programación dinámica](https://github.com/luislopez-dev/Programacin-Dinamica)
+https://github.com/luislopez-dev/Programacin-Dinamica
