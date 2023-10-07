@@ -1,1 +1,1 @@
-[Memoization](https://github.com/luislopez-dev/Memoization)
+https://github.com/luislopez-dev/Memoization
