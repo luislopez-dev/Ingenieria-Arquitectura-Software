@@ -1,1 +1,1 @@
-(Devide and conquer)[https://github.com/luislopez-dev/Divide-and-Conquer]
+https://github.com/luislopez-dev/Divide-and-Conquer
