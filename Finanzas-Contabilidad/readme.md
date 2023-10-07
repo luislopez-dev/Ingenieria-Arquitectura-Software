@@ -1,1 +1,1 @@
-[Algoritmos](https://github.com/luislopez-dev/Algoritmos-Finanzas-Contabilidad)
+https://github.com/luislopez-dev/Algoritmos-Finanzas-Contabilidad
