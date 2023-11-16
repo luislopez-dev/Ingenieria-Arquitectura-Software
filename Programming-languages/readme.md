@@ -1,6 +1,6 @@
-1. JavaScript: https://github.com/luislopez-dev/javascript
-2. C#: https://github.com/luislopez-dev/CSharp
-3. PHP: https://github.com/luislopez-dev/PHP
-4. Java: https://github.com/luislopez-dev/Java
-5. Ruby: https://github.com/luislopez-dev/Ruby
-6. TypeScript: https://github.com/luislopez-dev/TypeScript
+### JavaScript: https://github.com/luislopez-dev/javascript
+### C#: https://github.com/luislopez-dev/CSharp
+### PHP: https://github.com/luislopez-dev/PHP
+### Java: https://github.com/luislopez-dev/Java
+### Ruby: https://github.com/luislopez-dev/Ruby
+### TypeScript: https://github.com/luislopez-dev/TypeScript
