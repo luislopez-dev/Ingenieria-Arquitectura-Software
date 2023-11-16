@@ -4,4 +4,3 @@
 4. Java: https://github.com/luislopez-dev/Java
 5. Ruby: https://github.com/luislopez-dev/Ruby
 6. TypeScript: https://github.com/luislopez-dev/TypeScript
-7. Python: https://github.com/luislopez-dev/Python
