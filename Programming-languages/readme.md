@@ -3,4 +3,4 @@
 3. PHP: https://github.com/luislopez-dev/PHP
 4. Java: https://github.com/luislopez-dev/Java
 5. Ruby: https://github.com/luislopez-dev/Ruby
-6. TypeScropt: https://github.com/luislopez-dev/TypeScript
+6. TypeScript: https://github.com/luislopez-dev/TypeScript
